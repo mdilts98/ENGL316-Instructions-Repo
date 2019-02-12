@@ -1,6 +1,6 @@
 const personalization = {
-	"first-name": "John",
-	"last-name": "Doe"
+	"first-name": "Miriam",
+	"last-name": "Dilts"
 }
 
 var HeartsBackground = {
